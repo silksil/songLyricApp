@@ -8,4 +8,4 @@
 - Uses a variety of GraphQl queries and mutations.
 - Uses Optimistic UI to improve the UX.
 
-<img align="center" src="./songLyricApp.gif" width="70%" alt="artist-album-app"/>
+<img align="center" src="./songLyricApp.gif" width="50%" alt="artist-album-app"/>
